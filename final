@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raffy Anugerah - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .resume-container {
+      max-width: 800px;
+      margin: 40px auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+    .header img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 20px;
+      border: 3px solid #ddd;
+    }
+    .header div {
+      flex-grow: 1;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    .header p {
+      margin: 5px 0 0 0;
+      font-weight: bold;
+    }
+    h2 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .summary {
+      margin-bottom: 20px;
+      font-size: 15px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="resume-container">
+    <div class="header">
+      <img src="pepii.jpg" alt="Profile Photo">
+      <div>
+        <p>Student ID: 114035129</p>
+        <h1>Mochammad Raffy Anugerah</h1>
+      </div>
+    </div>
+
+    <div class="summary">
+      <p>I am Mochammad Raffy Anugerah, a Business Management student at ITS and currently studying at Asia University, Taiwan as part of a double degree program, where I will continue the rest of my studies. I am interested in sustainability, organizational behavior, and business strategy.</p>
+    </div>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Bachelor of Business Management</strong> - Institut Teknologi Sepuluh Nopember (ITS)</li>
+      <li><strong>Asia University, Taiwan</strong> - Double Degree Program</li>
+      <li><strong>Expected Graduation:</strong> 2026</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Business Analysis</li>
+      <li>Marketing & Consumer Behavior</li>
+      <li>Organizational Behavior & Leadership</li>
+      <li>Data Analysis & Microsoft Excel</li>
+      <li>Basic Python & R Programming</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>SHORKIES</strong> - Co-founder, Sorghum Cookies Social Enterprise</li>
+      <li><strong>NOTICES App</strong> - Developer & Product Manager (Student Productivity App)</li>
+      <li><strong>Rumble 8000</strong> - Co-founder, Clothing Brand</li>
+      <li><strong>Sriya</strong> - Marketing Intern, Property Super App</li>
+      <li><strong>Manifest</strong> - Fundraising Staff, Business Festival</li>
+      <li><strong>Mafia Career Development</strong> - Business Plan Competition</li>
+      <li><strong>Poppies</strong> - Founder, Clothing Brand</li>
+    </ul>
+
+    <h2>Projects & Activities</h2>
+    <ul>
+      <li>International Engagement Association (IEA) - Active Member</li>
+      <li>CSR Project: Revitalizing Surabaya Old Town</li>
+      <li>Field Trip: Meratus Logistics Company, Study on Sustainability & Technology</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>English (Intermediate)</li>
+      <li>Bahasa Indonesia (Native)</li>
+    </ul>
+  </div>
+
+</body>
+</html>
